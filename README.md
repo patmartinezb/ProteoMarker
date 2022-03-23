@@ -3,9 +3,7 @@
 ProteoMarker is a Shiny-based web application that enables the analysis of TMT proteomics data matrix (from MaxQuant, Proteome Discoverer or customized by the user), with the end goal of creating or selecting a representativa biomarker panel, capable of distinguising among conditions. This tool provides an interactive interface, easy to use for those users with no experience in the R programming language.
 
 ```{=html}
-<img src="workflow.png"
-     alt="ProteoMarker workflow"
-     style="height: 200px; width:900px;" />
+<img src="workflow.png" height="200" width="900"/>
 ```
 ## Sidebar tabs
 
